@@ -17,8 +17,8 @@ Here we will present a series of notebooks that showcase:
 .. toctree::
     :maxdepth: 0
 
-    ./tdr_tutorials/1_reconstruct_whole_body.ipynb
-    ./tdr_tutorials/2_reconstruct_tissues.ipynb
-    ./tdr_tutorials/3_morphometric_analysis.ipynb
-    ./tdr_tutorials/4_kernel_interpolation.ipynb
-    ./tdr_tutorials/5_deep_interpolation.ipynb
+    ./tdr_1_reconstruct_whole_body.ipynb
+    ./tdr_2_reconstruct_tissues.ipynb
+    ./tdr_3_morphometric_analysis.ipynb
+    ./tdr_4_kernel_interpolation.ipynb
+    ./tdr_5_deep_interpolation.ipynb
