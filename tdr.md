@@ -18,9 +18,7 @@ Here we will present a series of notebooks that showcase:
 :maxdepth: 0
 :titlesonly: true
 
-./tdr_1_reconstruct_whole_body.ipynb
-./tdr_2_reconstruct_tissues.ipynb
-./tdr_3_morphometric_analysis.ipynb
-./tdr_4_kernel_interpolation.ipynb
-./tdr_5_deep_interpolation.ipynb
+./tdr_1_multi-slices_alignment.ipynb
+./tdr_2_whole_body.ipynb
+./tdr_3_tissues.ipynb
 ```
