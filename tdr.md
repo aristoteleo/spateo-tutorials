@@ -18,7 +18,11 @@ Here we will present a series of notebooks that showcase:
 :maxdepth: 0
 :titlesonly: true
 
-./tdr_1_multi-slices_alignment.ipynb
-./tdr_2_whole_body.ipynb
-./tdr_3_tissues.ipynb
+./reconstruction/1_multi-slices_alignment.ipynb
+./reconstruction/2_3d_models_reconstruction.ipynb
+./reconstruction/3_subpopulations_reconstruction.ipynb
+./reconstruction/4_morpholoy.ipynb
+./reconstruction/5_ap&dv_diff_analysis.ipynb
+./reconstruction/6_backbone_diff_analysis.ipynb
+./reconstruction/visualization_single_model.ipynb
 ```
