@@ -1,4 +1,4 @@
-# Three dimensional reconstruction and morphometric analyses
+# Three dimensional reconstruction
 
 Spateo is equipped with sophisticated methods for building 3D spatiotemporal models by aligning serial sections of
 tissue, organ or embryos across different stages that can be measured by stereo-seq or other high definition spatial
