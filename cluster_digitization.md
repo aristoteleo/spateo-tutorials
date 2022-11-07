@@ -1,6 +1,6 @@
 # Clustering and digitization
 
-Spateo offers a combination strategy of spatial domain clustering with binning data and single-cell clustering with spatially segmented cells, leveraging high-resolution spatial transcriptomics data to reveal both anatomical and cellular heterogeneity. Combining anatomical and cellular information enables multiple aspects to perform spatial statistical analysis.
+Spateo recommand using a combination strategy of spatial domain clustering on binning data and single-cell clustering on spatially segmented cells, leveraging high-resolution spatial transcriptomics data to reveal both anatomical and cellular heterogeneity. Here we  demonstrate how spateo obtains spatial domains with our new spatially constrained clustering (SCC) algorithm, and also single-cell level clusters/annotations for segmented cells. How to harmonize and visualize spatial domain and cell type characterization.
 
 ```{toctree}
 :maxdepth: 0
@@ -8,6 +8,18 @@ Spateo offers a combination strategy of spatial domain clustering with binning d
 
 ./2_cluster_digitization/1_bin_cluster.ipynb
 ./2_cluster_digitization/2_cellbin_cluster.ipynb
+```
+
+
+Combining anatomical and cellular information enables multiple aspects to perform spatial statistical analysis. We include two simple showcases on:
+
+1. summarizing cell type composition in each domain, or domain specificity of cell types.
+2. cell type co-localization analysis.
+
+```{toctree}
+:maxdepth: 0
+:titlesonly: true
+
 ./2_cluster_digitization/3_combined_analysis.ipynb
 ```
 
