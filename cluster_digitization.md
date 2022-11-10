@@ -7,7 +7,7 @@ Spateo recommands using a combination strategy of spatial domain clustering on b
 :titlesonly: true
 
 ./2_cluster_digitization/1_bin_scc.ipynb
-./2_cluster_digitization/2_cellbin_cluster_visualize.ipynb
+./2_cluster_digitization/2_cellbin_visualize.ipynb
 ```
 
 
