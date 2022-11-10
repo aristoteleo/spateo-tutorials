@@ -132,3 +132,4 @@ dmypy.json
 *.gz
 *.txt
 *.h5ad
+.DS_Store
