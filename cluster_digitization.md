@@ -43,7 +43,7 @@ Digitization aims to quantify and meature the spatial pattern or variation of bi
 :maxdepth: 0
 :titlesonly: true
 
-./2_cluster_digitization/5_borderline.ipynb
-./2_cluster_digitization/6_gridding.ipynb
+./2_cluster_digitization/5_borderline_digitization.ipynb
+./2_cluster_digitization/6_layer_column_digitization.ipynb
 ```
 
