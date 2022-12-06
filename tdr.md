@@ -25,4 +25,5 @@ Here we will present a series of notebooks that showcase:
 ./5_3d_reconstruction/5_ap&dv_diff_analysis.ipynb
 ./5_3d_reconstruction/6_backbone_diff_analysis.ipynb
 ./5_3d_reconstruction/visualization_single_model.ipynb
+./5_3d_reconstruction/animation_3d_model.ipynb
 ```
