@@ -16,6 +16,6 @@ Since the approach is quite different based on whether or not a staining image i
 :maxdepth: 0
 :titlesonly: true
 
-./stain_segmentation.ipynb
-./rna_segmentation.ipynb
+./1_cell_segmentation/stain_segmentation.ipynb
+./1_cell_segmentation/rna_segmentation.ipynb
 ```
