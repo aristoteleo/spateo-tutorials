@@ -19,11 +19,5 @@ Here we will present a series of notebooks that showcase:
 :titlesonly: true
 
 ./5_3d_reconstruction/3D Reconstruction.ipynb
-./5_3d_reconstruction/2_3d_models_reconstruction.ipynb
-./5_3d_reconstruction/3_subpopulations_reconstruction.ipynb
-./5_3d_reconstruction/4_morpholoy.ipynb
-./5_3d_reconstruction/5_ap&dv_diff_analysis.ipynb
-./5_3d_reconstruction/6_backbone_diff_analysis.ipynb
-./5_3d_reconstruction/visualization_single_model.ipynb
-./5_3d_reconstruction/animation_3d_model.ipynb
+./5_3d_reconstruction/Interpolation.ipynb
 ```
