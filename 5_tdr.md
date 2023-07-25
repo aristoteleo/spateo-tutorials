@@ -18,7 +18,7 @@ Here we will present a series of notebooks that showcase:
 :maxdepth: 0
 :titlesonly: true
 
-./5_3d_reconstruction/1_multi-slices_alignment.ipynb
+./5_3d_reconstruction/3D Reconstruction.ipynb
 ./5_3d_reconstruction/2_3d_models_reconstruction.ipynb
 ./5_3d_reconstruction/3_subpopulations_reconstruction.ipynb
 ./5_3d_reconstruction/4_morpholoy.ipynb
