@@ -11,13 +11,14 @@ Here we will present a series of notebooks that showcase:
 1. how we can leverage Spateo to build whole body 3D point-cloud, surface and volume models of drosophila embryo at the E8-10 stage.
 2. how we can leverage Spateo to build 3D surface and volume models of each tissue type.
 3. how we can leverage Spateo to perform novel morphometric analyses.
-4. how we can leverage Spateo to learn continuous expression pattern in the 3D volume model by kernel methods.
-5. how we can leverage Spateo to learn continuous expression pattern in the 3D volume model by a new deep learning methods.
+4. how we can leverage Spateo to learn continuous expression pattern in the 3D volume model by various novel methods (Gaussian Process, SparseVFC, Deep Learning, etc.).
 
 ```{toctree}
 :maxdepth: 0
 :titlesonly: true
 
 ./5_3d_reconstruction/3D Reconstruction.ipynb
+./5_3d_reconstruction/Morpholoy.ipynb
+
 ./5_3d_reconstruction/Interpolations.ipynb
 ```
