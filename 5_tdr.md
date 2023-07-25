@@ -19,5 +19,5 @@ Here we will present a series of notebooks that showcase:
 :titlesonly: true
 
 ./5_3d_reconstruction/3D Reconstruction.ipynb
-./5_3d_reconstruction/Interpolation.ipynb
+./5_3d_reconstruction/Interpolations.ipynb
 ```
