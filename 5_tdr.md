@@ -21,4 +21,5 @@ Here we will present a series of notebooks that showcase:
 ./5_3d_reconstruction/Morpholoy.ipynb
 ./5_3d_reconstruction/Axis&Backbone.ipynb
 ./5_3d_reconstruction/Interpolations.ipynb
+./5_3d_reconstruction/Animation.ipynb
 ```
