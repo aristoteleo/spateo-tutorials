@@ -1,8 +1,15 @@
 # Cell-cell interaction
 
-Spateo models cell-cell communication and spatial niches via a general spatial lag regression approach to detect significant ligand-receptor interactions based on a spatial transcriptomic dataset with single cell resolution(Stereo-seq). Spateo implements cell-cell interaction prediction based on ligand-receptor products conditioned on spatial proximity. Meanwhile,Spateo is able to estimate the impact of niche factors and cell type-specific ligand-receptor interactions on expression of molecules of interest with spatially-aware generalized linear modeling that enables selection of multiple non-normal distribution assumptions. Spateo also integrates ligand-specific enrichment analysis, Similar to the differential gene analysis, We can observe that the ligand receptor pair specifically enriched in a certain spatial region. In addition, Spateo also provides an interactive lasso of regions of interest based on clustering results. 
+Spateo features numerous methods for investigating cell-cell communication from single-cell spatial transcriptomics, 
+including
 
-
+1) Ligand-receptor interaction prediction (by computation of the product) conditioned on spatial proximity (and 
+   ligand-receptor enrichment analysis, in the same vein as differential expression to compute spatial 
+   region-specific enrichment).
+2) Estimation of the impact of niche factors (cell types or ligands/receptors) on expression of genes of interest 
+   via spatially-weighted generalized linear modeling.
+3) Integration of 2) with downstream modeling to construct networks that marry predictions of intracellular gene 
+   regulation with intercellular communication.
 
 
 ```{toctree}
@@ -10,7 +17,6 @@ Spateo models cell-cell communication and spatial niches via a general spatial l
 :titlesonly: true
 
 ./3_cci/1_cell-cell_communication_inference.ipynb
-./3_cci/2_microenvironment_modeling_analysis.ipynb
-./3_cci/3_ligand_receptor_specfic_enrichment_analysis.ipynb
-./3_cci/4_interactive_lasso_of_regions_of_interest.ipynb
 ```
+
+Other tutorials coming soon!
