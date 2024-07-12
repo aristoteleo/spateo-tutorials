@@ -25,3 +25,13 @@ including
 ```
 
 Other tutorials coming soon!
+
+These tools are applied in the Spateo manuscript in the context of the embryonic mouse brain. To reproduce the
+figures in this manuscript, follow the following tutorial:
+
+```{toctree}
+:maxdepth: 0
+:titlesonly: true
+
+./3_cci/Spateo_figure_6.ipynb
+```
