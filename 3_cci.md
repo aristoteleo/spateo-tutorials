@@ -27,11 +27,24 @@ including
 Other tutorials coming soon!
 
 These tools are applied in the Spateo manuscript in the context of the embryonic mouse brain. To reproduce the
-figures in this manuscript, follow the following tutorial:
+figures in this manuscript, follow the following tutorials, starting with main figure 6 and supplementary 
+figure 6:
 
 ```{toctree}
 :maxdepth: 0
 :titlesonly: true
 
 ./3_cci/Spateo_figure_6.ipynb
+```
+
+Supplementary figure 6 to come soon...
+
+Supplementary figure 5 also includes a few additional contexts/spatial datasets. To reproduce these figures, 
+follow the following tutorial:
+
+```{toctree}
+:maxdepth: 0
+:titlesonly: true
+
+./3_cci/Spateo_figure_S5.ipynb
 ```
