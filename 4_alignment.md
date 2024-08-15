@@ -23,6 +23,7 @@ With pairwise alignment by chain rule, Spateo is able to reconstruct entire 3D t
 
 ```
 
+
 Spateo's pairwise-global alignment scheme is able to reconstruct a 3D embryo that is coherent and smooth in terms of geometry and gene expression across the 3D space. However, it should be noted that the reconstructed result is sometimes slightly incompatible with the actual structure, which is also the so-called "Banana problem". In Spateo, we design an algorithm to accurately recover the true anatomy structure by incorporating additional shape geometry information without destroying the full embryo, which is shown in the below notebook:
 
 ```{toctree}
