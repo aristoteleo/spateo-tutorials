@@ -37,7 +37,7 @@ Spateo employs Moran's I to search spatially informative genes with interesting 
 
 
 
-Digitization aims to quantify and meature the spatial pattern or variation of biological features (i.e. gene expression, cell type, etc.). Spateo implemented two basic digitizing operation to tackle most biological scenarios. 
+Digitization aims to quantify and meature the spatial pattern or variation of biological features (i.e. gene expression, cell type, etc.). Spateo implemented basic digitizing operations to tackle most biological scenarios. 
 
 ```{toctree}
 :maxdepth: 0
@@ -45,5 +45,6 @@ Digitization aims to quantify and meature the spatial pattern or variation of bi
 
 ./5_cluster_digitization/5_borderline_digitization.ipynb
 ./5_cluster_digitization/6_layer_column_digitization.ipynb
+./5_cluster_digitization/7_3d_mesh_digitization.ipynb
 ```
 
