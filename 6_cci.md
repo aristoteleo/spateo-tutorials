@@ -11,7 +11,7 @@ including
 :maxdepth: 0
 :titlesonly: true
 
-./3_cci/1_cell-cell_communication_inference.ipynb
+./6_cci/1_cell-cell_communication_inference.ipynb
 ```
 
 2) Estimation of the impact of ligand/receptor signaling on expression of genes of interest 
@@ -21,7 +21,7 @@ including
 :maxdepth: 0
 :titlesonly: true
 
-./3_cci/2_cell-cell_interaction_effects_modeling.ipynb
+./6_cci/2_cell-cell_interaction_effects_modeling.ipynb
 ```
 
 Other tutorials coming soon!
@@ -34,7 +34,7 @@ figure 6:
 :maxdepth: 0
 :titlesonly: true
 
-./3_cci/Spateo_figure_6.ipynb
+./6_cci/Spateo_figure_6.ipynb
 ```
 
 Supplementary figure 6 to come soon...
@@ -46,5 +46,5 @@ follow the following tutorial:
 :maxdepth: 0
 :titlesonly: true
 
-./3_cci/Spateo_figure_S5.ipynb
+./6_cci/Spateo_figure_S5.ipynb
 ```

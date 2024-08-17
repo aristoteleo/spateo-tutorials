@@ -8,5 +8,5 @@ Here, we introduce two notebooks to show spatially variable genes identification
 :maxdepth: 0
 :titlesonly: true
 
-./8_svgs/svg_iden_within_slice.ipynb
+./2_svgs/svg_iden_within_slice.ipynb
 ```

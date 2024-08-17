@@ -7,5 +7,5 @@ Spateo provides a variety of user-friendly interactive tools, which we think are
 :maxdepth: 0
 :titlesonly: true
 
-./7_interactive_tools/1_auxseg_livewire.ipynb
+./8_interactive_tools/1_auxseg_livewire.ipynb
 ```

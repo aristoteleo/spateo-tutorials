@@ -21,7 +21,7 @@ Combining anatomical and cellular information enables multiple aspects to perfor
 :maxdepth: 0
 :titlesonly: true
 
-./2_cluster_digitization/3_combined_analysis.ipynb
+./5_cluster_digitization/3_combined_analysis.ipynb
 ```
 
 
@@ -32,7 +32,7 @@ Spateo employs Moran's I to search spatially informative genes with interesting 
 :maxdepth: 0
 :titlesonly: true
 
-./2_cluster_digitization/4_svg_archetype.ipynb
+./5_cluster_digitization/4_svg_archetype.ipynb
 ```
 
 
@@ -43,7 +43,7 @@ Digitization aims to quantify and meature the spatial pattern or variation of bi
 :maxdepth: 0
 :titlesonly: true
 
-./2_cluster_digitization/5_borderline_digitization.ipynb
-./2_cluster_digitization/6_layer_column_digitization.ipynb
+./5_cluster_digitization/5_borderline_digitization.ipynb
+./5_cluster_digitization/6_layer_column_digitization.ipynb
 ```
 
