@@ -21,8 +21,8 @@ including
    with robustly built biological knowledge networks to best infer how ligand-receptor interaction may result in 
    upregulation of particular genes. For this tutorial, we demonstrate on a 3D example; specifically, a portion of
    the developing diencephalon (in the brain) of a mouse embryo at the E11.5 stage. It is broken into two parts:
-   downloading the data and selecting target genes for the model, running the model and performing selected downstream
-   analyses. 
+   the first part involves downloading the data and selecting target genes for the model, and the second involves 
+   running the model and performing selected downstream analyses. 
 
 ```{toctree}
 :maxdepth: 0
