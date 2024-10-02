@@ -6,9 +6,10 @@ Accurately aligning spatial transcriptomics slices and therefore reconstructing 
 :maxdepth: 0
 :titlesonly: true
 
-./3_alignment/Basic usage of Spateo alignment for 2D slices.ipynb
-./3_alignment/Nonrigid alignment of Spateo for 2D slices.ipynb
-./3_alignment/Partial alignment of Spateo for 2D slices.ipynb
+./3_alignment/1. Basic usage of Spateo alignment for 2D slices.ipynb
+./3_alignment/2. Nonrigid alignment of Spateo for 2D slices.ipynb
+./3_alignment/3. Partial alignment of Spateo for 2D slices.ipynb
+./3_alignment/4. Using GPU SVI Sparse calculation for efficiency and scalibity.ipynb
 
 ```
 
@@ -18,8 +19,8 @@ With pairwise alignment by chain rule, Spateo is able to reconstruct entire 3D t
 :maxdepth: 0
 :titlesonly: true
 
-./3_alignment/3D reconstruction with pairwise alignment.ipynb
-./3_alignment/Global refinement by considering multiple slices.ipynb
+./3_alignment/5. 3D reconstruction with pairwise alignment.ipynb
+./3_alignment/6. Global refinement by considering multiple slices.ipynb
 
 ```
 
@@ -30,7 +31,7 @@ Spateo's pairwise-global alignment scheme is able to reconstruct a 3D embryo tha
 :maxdepth: 0
 :titlesonly: true
 
-./3_alignment/Incorporating mesh information to improve 3D reconstruction.ipynb
+./3_alignment/7. Incorporating mesh information to improve 3D reconstruction.ipynb
 
 ```
 
