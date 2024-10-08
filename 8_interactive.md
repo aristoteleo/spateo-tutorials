@@ -8,4 +8,5 @@ Spateo provides a variety of user-friendly interactive tools, which we think are
 :titlesonly: true
 
 ./8_interactive_tools/1_auxseg_livewire.ipynb
+./8_interactive_tools/2_spaco_demo.ipynb
 ```
