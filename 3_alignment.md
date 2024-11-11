@@ -9,7 +9,7 @@ Accurately aligning spatial transcriptomics slices and therefore reconstructing 
 ./3_alignment/1. Basic usage of Spateo alignment for 2D slices.ipynb
 ./3_alignment/2. Nonrigid alignment of Spateo for 2D slices.ipynb
 ./3_alignment/3. Partial alignment of Spateo for 2D slices.ipynb
-./3_alignment/4. Using GPU SVI Sparse calculation for efficiency and scalibity.ipynb
+./3_alignment/4. Improve efficiency and scalibity.ipynb
 
 ```
 
