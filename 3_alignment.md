@@ -19,7 +19,7 @@ With pairwise alignment by chain rule, Spateo is able to reconstruct entire 3D t
 :maxdepth: 0
 :titlesonly: true
 
-./3_alignment/5. 3D reconstruction with pairwise alignment.ipynb
+./3_alignment/5. 3D reconstruction workflow.ipynb
 ./3_alignment/6. Global refinement by considering multiple slices.ipynb
 
 ```
