@@ -20,7 +20,8 @@ With pairwise alignment by chain rule, Spateo is able to reconstruct entire 3D t
 :titlesonly: true
 
 ./3_alignment/5. 3D reconstruction workflow.ipynb
-./3_alignment/6. Global refinement by considering multiple slices.ipynb
+./3_alignment/5.1 3D reconstruction on Drosophila bin 50 data with pairwise alignment.ipynb
+./3_alignment/5.2 3D reconstruction on Drosophila data with pairwise alignment.ipynb
 
 ```
 
